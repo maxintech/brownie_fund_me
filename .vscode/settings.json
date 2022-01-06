@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "venv/bin/python3",
+    "solidity.remappings": [
+        "@chainlink/=/Users/maxint/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@1.1.1"
+    ]
+}
